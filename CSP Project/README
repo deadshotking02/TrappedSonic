@@ -1,0 +1,16 @@
+This is a custom made project I made for my high school AP CSP project. This game uses pygame and keyboard python modules.
+
+The premise of the game is that sonic is trapped in a castle and is trying to escape. He uses all his powers(iceball, fireball, cow, ironman, double jump) to escape but his attempts are in vain
+
+There are three directional buttons in this game (LEFT, UP, FORWARD), which the players use to move around. Double jump exists. Once you are in the air, you can use the DOWN button to reach the ground instantly to traverse around the screen easily.
+Instructions are present on the game screen along with a bitstring of your latest input.
+
+Attacks:
+Iceball --> A
+Fireball --> D
+Cow --> A+D
+Ironman --> UP+DOWN
+
+Components of the file:
+Images folder --> Contains all the images
+main.py --> The main game file
