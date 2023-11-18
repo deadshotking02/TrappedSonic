@@ -11,6 +11,9 @@ Fireball --> D
 Cow --> A+D
 Ironman --> UP+DOWN
 
+Limitations:
+Equipping ironman could be buggy sometimes as it tries to perform both the actions of jumping and accelerating towards the ground
+
 Components of the file:
 Images folder --> Contains all the images
 main.py --> The main game file
