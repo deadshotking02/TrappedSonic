@@ -13,6 +13,7 @@ Ironman --> UP+DOWN
 
 Limitations:
 Equipping ironman could be buggy sometimes as it tries to perform both the actions of jumping and accelerating towards the ground
+Cannot move when equipped ironman
 
 Components of the file:
 Images folder --> Contains all the images
