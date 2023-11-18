@@ -18,8 +18,8 @@ arr_text = font.render('LEFT UP RIGHT --> MOVEMENT', True, TEXTC)
 dtext = font.render('DOWN --> REACH GROUND WHILE IN AIR', True, TEXTC)
 icetext = font.render('A --> Iceball', True, TEXTC)
 firetext = font.render('D --> Fireball', True, TEXTC)
-c1text = font.render('A/D --> COW', True, TEXTC)
-c2text = font.render('UP/DOWN --> IRONMAN', True, TEXTC)
+c1text = font.render('A+D --> COW', True, TEXTC)
+c2text = font.render('UP+DOWN --> IRONMAN', True, TEXTC)
 
 class Player:
     def __init__(self, x, y) -> None:
